@@ -37,6 +37,7 @@
 		43892A3E1E1BDB8000CADE50 /* LeetCode_SwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode_SwiftTests.swift; sourceTree = "<group>"; };
 		43892A401E1BDB8000CADE50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		43892A4D1E1BDC5B00CADE50 /* 234. Palindrome Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "234. Palindrome Linked List.playground"; sourceTree = "<group>"; };
+		439D993B1E1CF50B003CF11F /* 38. Count and Say.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "38. Count and Say.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +112,7 @@
 		43892A4A1E1BDC2300CADE50 /* Easy */ = {
 			isa = PBXGroup;
 			children = (
+				439D993B1E1CF50B003CF11F /* 38. Count and Say.playground */,
 				43892A4D1E1BDC5B00CADE50 /* 234. Palindrome Linked List.playground */,
 			);
 			path = Easy;
