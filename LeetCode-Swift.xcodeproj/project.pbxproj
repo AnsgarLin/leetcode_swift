@@ -38,6 +38,7 @@
 		43892A401E1BDB8000CADE50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		43892A4D1E1BDC5B00CADE50 /* 234. Palindrome Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "234. Palindrome Linked List.playground"; sourceTree = "<group>"; };
 		439D993B1E1CF50B003CF11F /* 38. Count and Say.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "38. Count and Say.playground"; sourceTree = "<group>"; };
+		43C98AA31E1DD851001685A7 /* 404. Sum of Left Leaves.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "404. Sum of Left Leaves.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +115,7 @@
 			children = (
 				439D993B1E1CF50B003CF11F /* 38. Count and Say.playground */,
 				43892A4D1E1BDC5B00CADE50 /* 234. Palindrome Linked List.playground */,
+				43C98AA31E1DD851001685A7 /* 404. Sum of Left Leaves.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
