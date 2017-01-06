@@ -27,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		4304EFEF1E1E857C00404564 /* 168. Excel Sheet Column Title.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "168. Excel Sheet Column Title.playground"; sourceTree = "<group>"; };
+		4338AF7C1E1F2BD1009BAAB0 /* 461. Hamming Distance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "461. Hamming Distance.playground"; sourceTree = "<group>"; };
 		43892A261E1BDB8000CADE50 /* LeetCode-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LeetCode-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		43892A291E1BDB8000CADE50 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		43892A2B1E1BDB8000CADE50 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -118,6 +119,7 @@
 				43892A4D1E1BDC5B00CADE50 /* 234. Palindrome Linked List.playground */,
 				43C98AA31E1DD851001685A7 /* 404. Sum of Left Leaves.playground */,
 				4304EFEF1E1E857C00404564 /* 168. Excel Sheet Column Title.playground */,
+				4338AF7C1E1F2BD1009BAAB0 /* 461. Hamming Distance.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
