@@ -9,8 +9,10 @@
 ###[461. Hamming Distance](https://github.com/htaiwan/LeetCode-Swift/blob/master/Playgrounds/Easy/461.%20Hamming%20Distance.playground/Contents.swift)
 ###[1. Two Sum](https://github.com/htaiwan/LeetCode-Swift/blob/master/Playgrounds/Easy/1.%20Two%20Sum.playground/Contents.swift)
 ###[102. Binary Tree Level Order Traversal](https://github.com/htaiwan/LeetCode-Swift/blob/master/Playgrounds/Easy/102.%20Binary%20Tree%20Level%20Order%20Traversal.playground/Contents.swift)
+###[26. Remove Duplicates from Sorted Array](https://github.com/htaiwan/LeetCode-Swift/blob/master/Playgrounds/Easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.playground/Contents.swift)
 
 ## Medium
+
 
 
 ## Hard
