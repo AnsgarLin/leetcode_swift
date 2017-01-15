@@ -29,6 +29,7 @@
 		4304EFEF1E1E857C00404564 /* 168. Excel Sheet Column Title.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "168. Excel Sheet Column Title.playground"; sourceTree = "<group>"; };
 		4338AF7C1E1F2BD1009BAAB0 /* 461. Hamming Distance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "461. Hamming Distance.playground"; sourceTree = "<group>"; };
 		4377D8891E2AF51C0014902D /* 20. Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "20. Valid Parentheses.playground"; sourceTree = "<group>"; };
+		4377D88A1E2AFB170014902D /* 28. Implement strStr().playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "28. Implement strStr().playground"; sourceTree = "<group>"; };
 		43892A261E1BDB8000CADE50 /* LeetCode-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LeetCode-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		43892A291E1BDB8000CADE50 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		43892A2B1E1BDB8000CADE50 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -123,6 +124,7 @@
 				43EC6CC01E1FF2D70066BE42 /* 1. Two Sum.playground */,
 				4377D8891E2AF51C0014902D /* 20. Valid Parentheses.playground */,
 				43E2D6881E251512001693F4 /* 26. Remove Duplicates from Sorted Array.playground */,
+				4377D88A1E2AFB170014902D /* 28. Implement strStr().playground */,
 				439D993B1E1CF50B003CF11F /* 38. Count and Say.playground */,
 				43E2D6891E251A44001693F4 /* 88. Merge Sorted Array.playground */,
 				43EC6CC41E2240C80066BE42 /* 102. Binary Tree Level Order Traversal.playground */,
