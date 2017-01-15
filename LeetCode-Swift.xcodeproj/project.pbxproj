@@ -31,6 +31,7 @@
 		4377D8891E2AF51C0014902D /* 20. Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "20. Valid Parentheses.playground"; sourceTree = "<group>"; };
 		4377D88A1E2AFB170014902D /* 28. Implement strStr().playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "28. Implement strStr().playground"; sourceTree = "<group>"; };
 		4377D88B1E2B654E0014902D /* 67. Add Binary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "67. Add Binary.playground"; sourceTree = "<group>"; };
+		4377D88C1E2B6DAE0014902D /* 121. Best Time to Buy and Sell Stock.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "121. Best Time to Buy and Sell Stock.playground"; sourceTree = "<group>"; };
 		43892A261E1BDB8000CADE50 /* LeetCode-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LeetCode-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		43892A291E1BDB8000CADE50 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		43892A2B1E1BDB8000CADE50 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -130,6 +131,7 @@
 				4377D88B1E2B654E0014902D /* 67. Add Binary.playground */,
 				43E2D6891E251A44001693F4 /* 88. Merge Sorted Array.playground */,
 				43EC6CC41E2240C80066BE42 /* 102. Binary Tree Level Order Traversal.playground */,
+				4377D88C1E2B6DAE0014902D /* 121. Best Time to Buy and Sell Stock.playground */,
 				4304EFEF1E1E857C00404564 /* 168. Excel Sheet Column Title.playground */,
 				43892A4D1E1BDC5B00CADE50 /* 234. Palindrome Linked List.playground */,
 				43C98AA31E1DD851001685A7 /* 404. Sum of Left Leaves.playground */,
