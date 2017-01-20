@@ -26,6 +26,7 @@ import UIKit
  */
 
 class Solution {
+    ///11111111
     func countAndSay(_ n: Int) -> String {
         if n == 1 {
             return "1"
